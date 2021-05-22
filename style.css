@@ -2,7 +2,7 @@
 
 body{
     background: linear-gradient(90deg, rgba(249, 61, 102, 1), rgba(109, 71, 217, 1));
-
+ height: 100%;
 }
 
 h1{
